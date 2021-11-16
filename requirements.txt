@@ -1,0 +1,4 @@
+aiogram==2.9.2
+aiohttp
+pytz
+requests
